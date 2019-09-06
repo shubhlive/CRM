@@ -24,7 +24,7 @@ namespace Pakt.Extensions2.PaktExtensions2
         /// <summary>
         /// Initializes a new instance of the <see cref="PostOperationaccountCreate"/> class.
         /// </summary>
-        /// <param name="unsecure">Contains public (unsecured) configuration information.</param>
+        /// <param name="unsecure">Contain public (unsecured) configuration information.</param>
         /// <param name="secure">Contains non-public (secured) configuration information. 
         /// When using Microsoft Dynamics 365 for Outlook with Offline Access, 
         /// the secure string is not passed to a plug-in that executes while the client is offline.</param>
